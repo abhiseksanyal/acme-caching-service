@@ -1,4 +1,4 @@
-package com.acme.cache.service;
+package com.acme.cache.lineaje.service;
 
 public class AcmeCacheApplication {
 
